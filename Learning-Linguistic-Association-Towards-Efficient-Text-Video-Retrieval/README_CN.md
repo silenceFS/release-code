@@ -15,6 +15,7 @@ LINAS可以应用不同的基线模型，我们这里提供的是基于“Dual E
 ## 数据集
 
 在跑我们的代码之前，请先下载代码所需要的数据集以及预训练的word2vec模型（[下载地址](https://drive.google.com/drive/folders/1TEIjErztZNQAi6AyNu9cK5STwo74oI8I)）。然后将它们解压到code/dataset/目录下。
+我们用的是公开数据集MSR-VTT。由于我们的基线模型来自于Dong et al [Dual Encoding for Video Retrieval by Text]，所以我们直接用他们公开的处理后的数据。
 
 ## 训练
 
