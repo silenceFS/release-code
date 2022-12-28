@@ -1,6 +1,4 @@
-### ACPL
-
-Note that our code is built based on [Frozen-in-time](https://github.com/m-bain/frozen-in-time).
+## Concept Propagation via Attentional Knowledge Graph Reasoning for Video-Text Retrieval
 
 ### Dependencies
 
@@ -12,6 +10,10 @@ Note that our code is built based on [Frozen-in-time](https://github.com/m-bain/
 * **transformers 4.17.0**
 * **Numpy 1.21.2**
 * **Scipy 1.8.0**
+
+### Dataset
+
+We use the public dataset MSR-VTT. Since we adopt [Frozen-in-time](https://github.com/m-bain/frozen-in-time) as our baseline, we use the same dataset with Frozen-in-time, which can be downloaded [here](https://www.robots.ox.ac.uk/~maxbain/frozen-in-time/data/MSRVTT.zip).
 
 ### How to use
 
