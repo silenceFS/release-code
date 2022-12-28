@@ -1,4 +1,4 @@
-### ACPL
+## Concept Propagation via Attentional Knowledge Graph Reasoning for Video-Text Retrieval
 
 我们的代码建立在[Frozen-in-time](https://github.com/m-bain/frozen-in-time)的基础上。
 
@@ -12,6 +12,10 @@
 * **transformers 4.17.0**
 * **Numpy 1.21.2**
 * **Scipy 1.8.0**
+
+### 数据集
+
+我们的实验建立在公共数据集MSR-VTT上，因为我们采用的基线模型是[Frozen-in-time](https://github.com/m-bain/frozen-in-time)，所以我们的数据集也与它相同，[下载链接](https://www.robots.ox.ac.uk/~maxbain/frozen-in-time/data/MSRVTT.zip)。
 
 ### 代码运行步骤
 
