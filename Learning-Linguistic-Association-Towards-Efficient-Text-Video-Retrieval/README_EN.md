@@ -1,4 +1,4 @@
-# LINAS
+# Learning Linguistic Association Towards Efficient Text-Video Retrieval
 
 LINAS is model-agnostic and can be adapted to various baseline methods. We provide our code based on 'Dual Encoding'.
 
@@ -15,6 +15,8 @@ LINAS is model-agnostic and can be adapted to various baseline methods. We provi
 ## Dataset
 
 To run our code, please first download the required dataset and a pre-trained word2vec [here](https://drive.google.com/drive/folders/1TEIjErztZNQAi6AyNu9cK5STwo74oI8I). Then extract the content in ***code/dataset/***.
+
+We use the public dataset MSR-VTT, which was processed by Dong et al[Dual Encoding for Video Retrieval by Text].
 
 ## Training
 
