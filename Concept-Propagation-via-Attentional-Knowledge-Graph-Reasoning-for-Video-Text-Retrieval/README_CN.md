@@ -1,7 +1,5 @@
 ## Concept Propagation via Attentional Knowledge Graph Reasoning for Video-Text Retrieval
 
-我们的代码建立在[Frozen-in-time](https://github.com/m-bain/frozen-in-time)的基础上。
-
 ### 环境依赖
 
 * **Ubuntu 16.04**
