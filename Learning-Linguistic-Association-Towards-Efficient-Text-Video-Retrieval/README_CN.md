@@ -1,4 +1,4 @@
-# LINAS
+# Learning Linguistic Association Towards Efficient Text-Video Retrieval
 
 LINAS可以应用不同的基线模型，我们这里提供的是基于“Dual Encoding”的示例代码。
 
